@@ -25,7 +25,9 @@ The documentation structure should be as follows:
 
 ## Anticipating challenges
 
+One common challenge a developer might face is authentication. Because these are microservices, the monitoring service may need several different credentials for different cloud and on-prem environments. This is a common problem, so I would allocate extra space in the documentation for authentication.
 
+Another common challenge would be developers wanting to use an SDK instead of a raw API call. I know that this is a common desire because popular platforms like GitHub develop SDKs precisely for this reason. To address this challenge, I would write tutorials for common sentinel API use cases, using the languages typically used by developers who access Sentinel (in addition to `curl`).
 
 
    
