@@ -1,6 +1,6 @@
 # How to Use Cloud Deployer Pro
 
- The purpose of policies is support the ideal of *immutability*, a state where changes to an application outside of a deployment pipeline are impossible. To adhere as close as possible to this ideal, a policy has the following life cycle: definition → integration → evaluation → enforcement → drift detection.
+ The purpose of policies is support the ideal of *immutability*, a state where changes to an application outside of a deployment pipeline are impossible. To adhere as closely as possible to this ideal, a policy has the following life cycle: definition → integration → evaluation → enforcement → drift detection.
 
 The new policy engine for Cloud Deployer Pro is now available to support that ideal better than ever. You can now enforce all of your security and compliance rules directly in your deployment pipelines, across all your cloud and on-prem infrastructure. This new approach to policy is not just a series of "if this, then that" checks. Now you use declarative states and benefit from continuous enforcement that actively implements drift detection. 
 
