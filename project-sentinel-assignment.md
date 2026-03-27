@@ -21,7 +21,7 @@ The documentation structure should be as follows:
 
 ## User workflow
 
-   With regard to documenting user workflows, there are too many to document end-to-end, since you have numerous services to select from to monitor, thresholds to set, and alerts/integrations to choose from. If there were only five possibilities to choose from in each category, there would be 125 different combinations to document. Instead of choosing a workflow and describing it end-to-end, I would focus on each section of the configuration documentation being clear and complete, and alerting the user at the beginning of that documentation section of the configuration flow: choose a service to monitor → select a threshold for alerts → select reporting options → configure reporting integrations.
+   With regard to documenting user workflows, there are too many to document end-to-end, since you have numerous services to select from, different thresholds to set, and various alerts/integrations to choose from. If there were only five possibilities to choose from in each category, there would be 125 different combinations to document. Instead of choosing a workflow and describing it end-to-end, I would focus on each section of the configuration documentation being clear and complete. I would also inform the user at the beginning of the configuration documentation section of the configuration flow: choose a service to monitor → select a threshold for alerts → select reporting options → configure reporting integrations.
 
 ## Anticipating challenges
 
